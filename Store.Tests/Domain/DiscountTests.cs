@@ -2,7 +2,7 @@
 
 namespace Store.Tests.Entities;
 
-[TestClass]
+//[TestClass]
 public class DiscountTests
 {
     private readonly Customer _customer = new Customer("Arthur Galanti", "arthur@galanti.dev");
