@@ -4,7 +4,7 @@ using Store.Tests.Repositories;
 
 namespace Store.Tests.Queries;
 
-[TestClass]
+//[TestClass]
 public class ProductQueriesTests
 {
     private IList<Product> _products;

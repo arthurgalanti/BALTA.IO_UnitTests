@@ -9,5 +9,5 @@ public class Entity : Notifiable<Notification>
         Id = Guid.NewGuid();
     }
 
-    private Guid Id { get; set; }
+    public Guid Id { get; set; }
 }
